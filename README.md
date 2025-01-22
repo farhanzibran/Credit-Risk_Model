@@ -1,4 +1,5 @@
-# Credit-Risk_Model
+# Credit-Risk_Model   
+## (Link dataset :https://www.kaggle.com/datasets/husainsb/lendingclub-issued-loans )
 ## Introduction
 Credit Risk Model adalah sebuah model untuk memprediksi pinjaman mana yang akan mengalami gagal bayar.
 
@@ -49,6 +50,8 @@ Kegunaan: Penting untuk kepercayaan, transparansi, dan validasi model, terutama 
 * Recall: 82.5%
 * Specificity: 82.7%
 * F1-Score: 41.6%
+
+
 
 
 
